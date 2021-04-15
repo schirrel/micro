@@ -16,4 +16,5 @@ Logos
 [Hamburguer Menu](https://codepen.io/schirrel/full/yLYPORN)
 [Toggle](https://codepen.io/schirrel/full/yvGraX)
 [Password Input](https://codepen.io/umesh0204/pen/OJMbKKZ?editors=1010)
+[Floating Label](https://codepen.io/tonycorp/pen/JRLaKw)
 
