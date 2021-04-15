@@ -6,7 +6,7 @@ Loadings
 [x](https://codepen.io/schirrel/full/eYBLZez) [x](https://codepen.io/schirrel/pen/VwmbPzY) [x](https://codepen.io/schirrel/pen/xxRWweg) [JSM](https://codepen.io/schirrel/pen/eYBaKGW) [x](https://codepen.io/schirrel/pen/NJZXYX) []()  
 
 Explicações
-[x](https://codepen.io/schirrel/pen/JjdNGXg)  [x](https://codepen.io/schirrel/pen/mdJRmaN)  [x](https://codepen.io/schirrel/pen/jLbNOx) [x](https://codepen.io/schirrel/pen/PMJNzg)  [x](https://codepen.io/schirrel/pen/dzyKLj) [Star](https://codepen.io/schirrel/pen/wvgjOOL?editors=1100) []() []() 
+[x](https://codepen.io/schirrel/pen/JjdNGXg)  [x](https://codepen.io/schirrel/pen/mdJRmaN)  [x](https://codepen.io/schirrel/pen/jLbNOx) [x](https://codepen.io/schirrel/pen/PMJNzg)  [x](https://codepen.io/schirrel/pen/dzyKLj) [Star](https://codepen.io/schirrel/pen/wvgjOOL?editors=1100) [Empty truck](https://codepen.io/schirrel/pen/yLgEVyv) []() 
 
 
 Logos
