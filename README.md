@@ -20,4 +20,4 @@ Logos
 - [Button e Hover](https://codepen.io/schirrel/pen/oNByzjy)
 
 ## Apresenação
-[Google Presentation](https://docs.google.com/presentation/d/11K9uHllJ9r3Ej2U_a16Sw3-bZFOM7swTHaXUxN1s5rM/edit?usp=sharing)
+[Google Presentation](https://drive.google.com/file/d/1JyAafiNIlJFSVey0lR5tjyDldrx7RN8e/view?usp=sharing)
